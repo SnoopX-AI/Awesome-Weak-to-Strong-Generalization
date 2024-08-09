@@ -6,7 +6,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 - Weak-to-Strong Reasoning: https://arxiv.org/abs/2407.13647
 
--Debating with More Persuasive LLMs Leads to More Truthful Answers: https://arxiv.org/abs/2402.06782
+- Debating with More Persuasive LLMs Leads to More Truthful Answers: https://arxiv.org/abs/2402.06782
 
 - The Unreasonable Effectiveness of Easy Training Data for Hard Tasks: https://arxiv.org/abs/2401.06751
 
