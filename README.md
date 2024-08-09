@@ -3,7 +3,7 @@ All the papers listed in this project come from my usual reading.
 If you have found some new and interesting papers, I would appreciate it if you let me know!!! 
 
 
-https://arxiv.org/abs/2312.09390
+Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision https://arxiv.org/abs/2312.09390
 [2407.13647] Weak-to-Strong Reasoning (arxiv.org)
 [2401.06751] The Unreasonable Effectiveness of Easy Training Data for Hard Tasks (arxiv.org)
 [2403.09472] Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision (arxiv.org)
