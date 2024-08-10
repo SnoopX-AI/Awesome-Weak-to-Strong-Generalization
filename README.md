@@ -8,6 +8,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 - Debating with More Persuasive LLMs Leads to More Truthful Answers: https://arxiv.org/abs/2402.06782
 
+- CriticGPT: https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/
+
 - Aligner: Efficient Alignment by Learning to Correct: https://arxiv.org/abs/2402.02416
 
 - The Unreasonable Effectiveness of Easy Training Data for Hard Tasks: https://arxiv.org/abs/2401.06751
