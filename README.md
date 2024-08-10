@@ -8,6 +8,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 - Debating with More Persuasive LLMs Leads to More Truthful Answers: https://arxiv.org/abs/2402.06782
 
+- Aligner: Efficient Alignment by Learning to Correct: https://arxiv.org/abs/2402.02416
+
 - The Unreasonable Effectiveness of Easy Training Data for Hard Tasks: https://arxiv.org/abs/2401.06751
 
 - Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision: https://arxiv.org/abs/2403.09472
